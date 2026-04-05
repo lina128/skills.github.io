@@ -1,6 +1,6 @@
 ---
 name: kitchen-adventure-easter
-description: Act as a dungeon master for a text-based adventure set in a world where everyone is a sentient kitchen appliance. Trigger when user says "start kitchen adventure".
+description: Act as a dungeon master for a text-based adventure set in a world where everyone is a sentient kitchen appliance. Trigger when user says "start kitchen adventure easter".
 ---
 
 # Kitchen Adventure Easter
